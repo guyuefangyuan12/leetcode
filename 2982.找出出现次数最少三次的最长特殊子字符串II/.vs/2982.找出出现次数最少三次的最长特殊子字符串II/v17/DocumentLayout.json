@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11A9509D-2E85-45B9-B586-5EBC1961E13D}|2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11A9509D-2E85-45B9-B586-5EBC1961E13D}|2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A9509D-2E85-45B9-B586-5EBC1961E13D}|2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II\\tijie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11A9509D-2E85-45B9-B586-5EBC1961E13D}|2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II.vcxproj|solutionrelative:tijie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tijie.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II\\tijie.cpp",
+              "RelativeDocumentMoniker": "tijie.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II\\tijie.cpp",
+              "RelativeToolTip": "tijie.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T04:13:11.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\2982.\u627E\u51FA\u51FA\u73B0\u6B21\u6570\u6700\u5C11\u4E09\u6B21\u7684\u6700\u957F\u7279\u6B8A\u5B50\u5B57\u7B26\u4E32II\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T01:45:46.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

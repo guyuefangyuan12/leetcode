@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\2334. 元素值大于变化阈值的子数组\main.cpp(20,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2334. 元素值大于变化阈值的子数组\main.cpp(24,27): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\OneDrive\桌面\vs\2334. 元素值大于变化阈值的子数组\main.cpp(24,27): warning C4267:         with
+D:\OneDrive\桌面\vs\2334. 元素值大于变化阈值的子数组\main.cpp(24,27): warning C4267:         [
+D:\OneDrive\桌面\vs\2334. 元素值大于变化阈值的子数组\main.cpp(24,27): warning C4267:             _Ty=int
+D:\OneDrive\桌面\vs\2334. 元素值大于变化阈值的子数组\main.cpp(24,27): warning C4267:         ]
+  2334. 元素值大于变化阈值的子数组.vcxproj -> D:\OneDrive\桌面\vs\2334. 元素值大于变化阈值的子数组\x64\Debug\2334. 元素值大于变化阈值的子数组.exe

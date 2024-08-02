@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\3098.求出所有子序列的能量和\main.cpp(12,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\3098.求出所有子序列的能量和\main.cpp(48,14): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\3098.求出所有子序列的能量和\main.cpp(52,13): warning C4244: “return”: 从“_Ret”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\3098.求出所有子序列的能量和\main.cpp(52,13): warning C4244:         with
+D:\OneDrive\桌面\vs\3098.求出所有子序列的能量和\main.cpp(52,13): warning C4244:         [
+D:\OneDrive\桌面\vs\3098.求出所有子序列的能量和\main.cpp(52,13): warning C4244:             _Ret=__int64
+D:\OneDrive\桌面\vs\3098.求出所有子序列的能量和\main.cpp(52,13): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\type_traits(1715,98): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\type_traits(1715,98): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\type_traits(1715,98): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\type_traits(1715,98): warning C4244:             _Ty=__int64
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\type_traits(1715,98): warning C4244:         ]
+  3098.求出所有子序列的能量和.vcxproj -> D:\OneDrive\桌面\vs\3098.求出所有子序列的能量和\x64\Debug\3098.求出所有子序列的能量和.exe

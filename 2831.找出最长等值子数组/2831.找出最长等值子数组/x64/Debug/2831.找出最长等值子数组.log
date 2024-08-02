@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\2831.找出最长等值子数组\main.cpp(10,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  tishi.cpp
+D:\OneDrive\桌面\vs\2831.找出最长等值子数组\tishi.cpp(10,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  2831.找出最长等值子数组.vcxproj -> D:\OneDrive\桌面\vs\2831.找出最长等值子数组\x64\Debug\2831.找出最长等值子数组.exe

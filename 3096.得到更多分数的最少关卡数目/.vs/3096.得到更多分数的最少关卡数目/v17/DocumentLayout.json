@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF278C4-A41C-4371-BA37-85AC8DA3A851}|3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE\\qianzuihe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DF278C4-A41C-4371-BA37-85AC8DA3A851}|3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE.vcxproj|solutionrelative:qianzuihe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF278C4-A41C-4371-BA37-85AC8DA3A851}|3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4DF278C4-A41C-4371-BA37-85AC8DA3A851}|3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "qianzuihe.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE\\qianzuihe.cpp",
+              "RelativeDocumentMoniker": "qianzuihe.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE\\qianzuihe.cpp",
+              "RelativeToolTip": "qianzuihe.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T09:01:08.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\3096.\u5F97\u5230\u66F4\u591A\u5206\u6570\u7684\u6700\u5C11\u5173\u5361\u6570\u76EE\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-24T08:40:58.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

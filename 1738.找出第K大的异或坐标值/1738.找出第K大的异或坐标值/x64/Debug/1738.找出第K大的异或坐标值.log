@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\1738.找出第K大的异或坐标值\main.cpp(11,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\1738.找出第K大的异或坐标值\main.cpp(12,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1738.找出第K大的异或坐标值.vcxproj -> D:\OneDrive\桌面\vs\1738.找出第K大的异或坐标值\x64\Debug\1738.找出第K大的异或坐标值.exe

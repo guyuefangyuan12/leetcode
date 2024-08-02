@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\1615.最大网络秩\main.cpp(16,9): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\1615.最大网络秩\main.cpp(24,13): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\1615.最大网络秩\main.cpp(32,10): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\1615.最大网络秩\main.cpp(37,14): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  1615.最大网络秩.vcxproj -> D:\OneDrive\桌面\vs\1615.最大网络秩\x64\Debug\1615.最大网络秩.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\2786.访问数组中的位置使分数最大\main.cpp(10,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\2786.访问数组中的位置使分数最大\main.cpp(37,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2786.访问数组中的位置使分数最大.vcxproj -> C:\Users\Lenovo\source\repos\2786.访问数组中的位置使分数最大\x64\Debug\2786.访问数组中的位置使分数最大.exe

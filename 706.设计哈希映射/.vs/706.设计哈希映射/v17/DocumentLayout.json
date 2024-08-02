@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\706.\u8BBE\u8BA1\u54C8\u5E0C\u6620\u5C04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0E6C0A4-E1DE-4365-B8FE-1109D03ACCF5}|706.\u8BBE\u8BA1\u54C8\u5E0C\u6620\u5C04.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\706.\u8BBE\u8BA1\u54C8\u5E0C\u6620\u5C04\\Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0E6C0A4-E1DE-4365-B8FE-1109D03ACCF5}|706.\u8BBE\u8BA1\u54C8\u5E0C\u6620\u5C04.vcxproj|solutionrelative:Hash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hash.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\706.\u8BBE\u8BA1\u54C8\u5E0C\u6620\u5C04\\Hash.cpp",
+              "RelativeDocumentMoniker": "Hash.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\706.\u8BBE\u8BA1\u54C8\u5E0C\u6620\u5C04\\Hash.cpp",
+              "RelativeToolTip": "Hash.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-29T04:09:42.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

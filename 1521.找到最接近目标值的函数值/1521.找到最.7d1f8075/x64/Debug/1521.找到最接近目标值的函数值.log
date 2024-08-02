@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\1521.找到最接近目标值的函数值\main.cpp(9,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\1521.找到最接近目标值的函数值\main.cpp(13,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1521.找到最接近目标值的函数值.vcxproj -> D:\OneDrive\桌面\vs\1521.找到最接近目标值的函数值\x64\Debug\1521.找到最接近目标值的函数值.exe

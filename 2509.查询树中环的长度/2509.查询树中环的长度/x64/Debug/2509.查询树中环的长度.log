@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\2509.查询树中环的长度\main.cpp(9,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2509.查询树中环的长度\main.cpp(10,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2509.查询树中环的长度\main.cpp(12,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2509.查询树中环的长度\main.cpp(16,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2509.查询树中环的长度\main.cpp(36,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2509.查询树中环的长度.vcxproj -> D:\OneDrive\桌面\vs\2509.查询树中环的长度\x64\Debug\2509.查询树中环的长度.exe

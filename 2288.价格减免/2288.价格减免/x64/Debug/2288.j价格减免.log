@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\2288.j价格减免\main.cpp(28,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\2288.j价格减免\main.cpp(86,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\2288.j价格减免\main.cpp(90,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  2288.j价格减免.vcxproj -> C:\Users\Lenovo\source\repos\2288.j价格减免\x64\Debug\2288.价格减免.exe

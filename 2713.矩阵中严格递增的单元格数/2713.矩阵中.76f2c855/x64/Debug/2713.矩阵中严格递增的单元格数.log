@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\2713.矩阵中严格递增的单元格数\main.cpp(37,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2713.矩阵中严格递增的单元格数\main.cpp(38,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2713.矩阵中严格递增的单元格数\main.cpp(50,51): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  2713.矩阵中严格递增的单元格数.vcxproj -> D:\OneDrive\桌面\vs\2713.矩阵中严格递增的单元格数\x64\Debug\2713.矩阵中严格递增的单元格数.exe

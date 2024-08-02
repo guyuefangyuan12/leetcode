@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\2713.\u77E9\u9635\u4E2D\u4E25\u683C\u9012\u589E\u7684\u5355\u5143\u683C\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F2C855-14FA-484F-B90A-3002C266EB88}|2713.\u77E9\u9635\u4E2D\u4E25\u683C\u9012\u589E\u7684\u5355\u5143\u683C\u6570.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\2713.\u77E9\u9635\u4E2D\u4E25\u683C\u9012\u589E\u7684\u5355\u5143\u683C\u6570\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76F2C855-14FA-484F-B90A-3002C266EB88}|2713.\u77E9\u9635\u4E2D\u4E25\u683C\u9012\u589E\u7684\u5355\u5143\u683C\u6570.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F2C855-14FA-484F-B90A-3002C266EB88}|2713.\u77E9\u9635\u4E2D\u4E25\u683C\u9012\u589E\u7684\u5355\u5143\u683C\u6570.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\vector",
+              "ViewState": "AQIAAFQHAAAAAAAAAAAYwGAHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-27T12:09:43.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\2713.\u77E9\u9635\u4E2D\u4E25\u683C\u9012\u589E\u7684\u5355\u5143\u683C\u6570\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\2713.\u77E9\u9635\u4E2D\u4E25\u683C\u9012\u589E\u7684\u5355\u5143\u683C\u6570\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-19T04:04:15.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

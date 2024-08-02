@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D383329-1156-40AE-8478-B28D6E33779B}|2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D383329-1156-40AE-8478-B28D6E33779B}|2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D383329-1156-40AE-8478-B28D6E33779B}|2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6\\fanhuitanxin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D383329-1156-40AE-8478-B28D6E33779B}|2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6.vcxproj|solutionrelative:fanhuitanxin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D383329-1156-40AE-8478-B28D6E33779B}|2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.40.33807\\INCLUDE\\DEQUE||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deque",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\include\\deque",
+              "ViewState": "AQIAAEwEAAAAAAAAAAAewFcEAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-13T05:50:54.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fanhuitanxin.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6\\fanhuitanxin.cpp",
+              "RelativeDocumentMoniker": "fanhuitanxin.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6\\fanhuitanxin.cpp",
+              "RelativeToolTip": "fanhuitanxin.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T05:31:24.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\2813.\u5B50\u5E8F\u5217\u6700\u5927\u4F18\u96C5\u5EA6\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-13T02:14:25.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

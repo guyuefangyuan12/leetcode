@@ -1,0 +1,4 @@
+﻿  dp.cpp
+D:\OneDrive\桌面\vs\2684.矩阵中移动的最大次数\dp.cpp(10,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2684.矩阵中移动的最大次数\dp.cpp(11,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2684.矩阵中移动的最大次数.vcxproj -> D:\OneDrive\桌面\vs\2684.矩阵中移动的最大次数\x64\Debug\2684.矩阵中移动的最大次数.exe

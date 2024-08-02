@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\494.\u76EE\u6807\u548C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D19BBC54-7C40-4D67-81ED-C47373EDA80A}|494.\u76EE\u6807\u548C.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\494.\u76EE\u6807\u548C\\youhua.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D19BBC54-7C40-4D67-81ED-C47373EDA80A}|494.\u76EE\u6807\u548C.vcxproj|solutionrelative:youhua.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D19BBC54-7C40-4D67-81ED-C47373EDA80A}|494.\u76EE\u6807\u548C.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\494.\u76EE\u6807\u548C\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D19BBC54-7C40-4D67-81ED-C47373EDA80A}|494.\u76EE\u6807\u548C.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "youhua.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\494.\u76EE\u6807\u548C\\youhua.cpp",
+              "RelativeDocumentMoniker": "youhua.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\494.\u76EE\u6807\u548C\\youhua.cpp",
+              "RelativeToolTip": "youhua.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-30T03:40:38.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\494.\u76EE\u6807\u548C\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\494.\u76EE\u6807\u548C\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-30T03:03:05.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

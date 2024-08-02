@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Lenovo\source\repos\522.最长特殊序列II\main.cpp(15,19): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\522.最长特殊序列II\main.cpp(26,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\source\repos\522.最长特殊序列II\main.cpp(53,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  522.最长特殊序列II.vcxproj -> C:\Users\Lenovo\source\repos\522.最长特殊序列II\x64\Debug\522.最长特殊序列II.exe

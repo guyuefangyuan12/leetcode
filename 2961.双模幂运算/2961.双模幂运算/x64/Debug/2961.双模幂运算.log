@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\2961.双模幂运算\main.cpp(9,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2961.双模幂运算\main.cpp(16,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2961.双模幂运算\main.cpp(18,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  2961.双模幂运算.vcxproj -> D:\OneDrive\桌面\vs\2961.双模幂运算\x64\Debug\2961.双模幂运算.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\2545.根据第K场考试的分数排序\main.cpp(9,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\2545.根据第K场考试的分数排序\main.cpp(10,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2545.根据第K场考试的分数排序.vcxproj -> D:\OneDrive\桌面\vs\2545.根据第K场考试的分数排序\x64\Debug\2545.根据第K场考试的分数排序.exe

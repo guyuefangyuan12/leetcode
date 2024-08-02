@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F316D28-BDB3-403C-AA03-233D63219A5F}|3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE\\youhua.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F316D28-BDB3-403C-AA03-233D63219A5F}|3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE.vcxproj|solutionrelative:youhua.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F316D28-BDB3-403C-AA03-233D63219A5F}|3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6F316D28-BDB3-403C-AA03-233D63219A5F}|3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "youhua.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE\\youhua.cpp",
+              "RelativeDocumentMoniker": "youhua.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE\\youhua.cpp",
+              "RelativeToolTip": "youhua.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T09:05:29.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\3111.\u8986\u76D6\u6240\u6709\u70B9\u7684\u6700\u5C11\u77E9\u5F62\u6570\u76EE\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-31T08:44:06.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
