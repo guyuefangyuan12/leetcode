@@ -1,0 +1,8 @@
+﻿  dp.cpp
+D:\OneDrive\桌面\vs\leetcode\1035.不相交的线\dp.cpp(11,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\1035.不相交的线\dp.cpp(12,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\OneDrive\桌面\vs\leetcode\1035.不相交的线\main.cpp(11,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\1035.不相交的线\main.cpp(12,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  1035.不相交的线.vcxproj -> D:\OneDrive\桌面\vs\leetcode\1035.不相交的线\x64\Debug\1035.不相交的线.exe

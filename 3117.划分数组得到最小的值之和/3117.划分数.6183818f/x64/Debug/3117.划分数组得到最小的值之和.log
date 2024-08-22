@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\3117.划分数组得到最小的值之和\main.cpp(11,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\3117.划分数组得到最小的值之和\main.cpp(12,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  3117.划分数组得到最小的值之和.vcxproj -> D:\OneDrive\桌面\vs\leetcode\3117.划分数组得到最小的值之和\x64\Debug\3117.划分数组得到最小的值之和.exe

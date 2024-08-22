@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD5243C-6861-4218-8CCD-AE13E6CD34F0}|1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF\\dp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DD5243C-6861-4218-8CCD-AE13E6CD34F0}|1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF.vcxproj|solutionrelative:dp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DD5243C-6861-4218-8CCD-AE13E6CD34F0}|1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DD5243C-6861-4218-8CCD-AE13E6CD34F0}|1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dp.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF\\dp.cpp",
+              "RelativeDocumentMoniker": "dp.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF\\dp.cpp",
+              "RelativeToolTip": "dp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-11T08:20:45.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1035.\u4E0D\u76F8\u4EA4\u7684\u7EBF\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAD4vxQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-11T07:39:34.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

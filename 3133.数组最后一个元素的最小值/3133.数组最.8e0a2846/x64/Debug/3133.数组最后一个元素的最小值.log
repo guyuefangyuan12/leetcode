@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\3133.数组最后一个元素的最小值\main.cpp(12,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\3133.数组最后一个元素的最小值\main.cpp(26,20): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  3133.数组最后一个元素的最小值.vcxproj -> D:\OneDrive\桌面\vs\leetcode\3133.数组最后一个元素的最小值\x64\Debug\3133.数组最后一个元素的最小值.exe

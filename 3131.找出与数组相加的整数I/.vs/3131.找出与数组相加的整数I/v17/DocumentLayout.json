@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\3131.\u627E\u51FA\u4E0E\u6570\u7EC4\u76F8\u52A0\u7684\u6574\u6570I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00A74920-EC7D-4F50-84E9-3C79F431A3BC}|3131.\u627E\u51FA\u4E0E\u6570\u7EC4\u76F8\u52A0\u7684\u6574\u6570I.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\3131.\u627E\u51FA\u4E0E\u6570\u7EC4\u76F8\u52A0\u7684\u6574\u6570I\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00A74920-EC7D-4F50-84E9-3C79F431A3BC}|3131.\u627E\u51FA\u4E0E\u6570\u7EC4\u76F8\u52A0\u7684\u6574\u6570I.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\3131.\u627E\u51FA\u4E0E\u6570\u7EC4\u76F8\u52A0\u7684\u6574\u6570I\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\3131.\u627E\u51FA\u4E0E\u6570\u7EC4\u76F8\u52A0\u7684\u6574\u6570I\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T10:15:43.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

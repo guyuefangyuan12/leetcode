@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\3132.找出与数组相加的整数II\main.cpp(10,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\3132.找出与数组相加的整数II\main.cpp(11,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  3132.找出与数组相加的整数II.vcxproj -> D:\OneDrive\桌面\vs\leetcode\3132.找出与数组相加的整数II\x64\Debug\3132.找出与数组相加的整数II.exe
