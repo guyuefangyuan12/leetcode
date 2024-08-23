@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\ranges(11): warning STL4038: The contents of <ranges> are available only with C++20 or later.
+D:\OneDrive\桌面\vs\leetcode\2974.最小数字游戏\main.cpp(11,3): error C2653: “ranges”: 不是类或命名空间名称
+D:\OneDrive\桌面\vs\leetcode\2974.最小数字游戏\main.cpp(11,11): error C2672: “std::sort”: 未找到匹配的重载函数
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8392,19):
+      可能是“void std::sort(const _RanIt,const _RanIt)”
+          D:\OneDrive\桌面\vs\leetcode\2974.最小数字游戏\main.cpp(11,11):
+          “void std::sort(const _RanIt,const _RanIt)”: 应输入 2 个参数，却提供了 0 个
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\algorithm(8384,19):
+      或    “void std::sort(const _RanIt,const _RanIt,_Pr)”
+          D:\OneDrive\桌面\vs\leetcode\2974.最小数字游戏\main.cpp(11,11):
+          “void std::sort(const _RanIt,const _RanIt,_Pr)”: 应输入 3 个参数，却提供了 0 个
+  
+D:\OneDrive\桌面\vs\leetcode\2974.最小数字游戏\main.cpp(12,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
