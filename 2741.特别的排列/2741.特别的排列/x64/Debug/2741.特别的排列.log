@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\2741.特别的排列\main.cpp(9,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\2741.特别的排列\main.cpp(10,30): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  2741.特别的排列.vcxproj -> D:\OneDrive\桌面\vs\leetcode\2741.特别的排列\x64\Debug\2741.特别的排列.exe
