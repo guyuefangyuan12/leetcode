@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\698.划分为K个相等的子集\main.cpp(23,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\698.划分为K个相等的子集\main.cpp(47,55): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+      D:\OneDrive\桌面\vs\leetcode\698.划分为K个相等的子集\main.cpp(47,55):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\OneDrive\桌面\vs\leetcode\698.划分为K个相等的子集\main.cpp(76,10):
+          查看对正在编译的函数 模板 实例化“bool Solution::canPartitionKSubsets::<lambda_1>::operator ()<Solution::canPartitionKSubsets::<lambda_1>&>(_T1,int,int,int) const”的引用
+          with
+          [
+              _T1=Solution::canPartitionKSubsets::<lambda_1> &
+          ]
+  
+  698.划分为K个相等的子集.vcxproj -> D:\OneDrive\桌面\vs\leetcode\698.划分为K个相等的子集\x64\Debug\698.划分为K个相等的子集.exe

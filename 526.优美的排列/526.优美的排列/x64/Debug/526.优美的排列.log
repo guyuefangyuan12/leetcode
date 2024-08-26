@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\526.优美的排列\main.cpp(10,23): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\OneDrive\桌面\vs\leetcode\526.优美的排列\main.cpp(22,13): error C3861: “__builtin_popcount”: 找不到标识符
