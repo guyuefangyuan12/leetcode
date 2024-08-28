@@ -1,0 +1,6 @@
+﻿  dp.cpp
+D:\OneDrive\桌面\vs\leetcode\3144.分割字符频率相等的最少子字符串\dp.cpp(57,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+D:\OneDrive\桌面\vs\leetcode\3144.分割字符频率相等的最少子字符串\main.cpp(12,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  3144.分割字符频率相等的最少子字符串.vcxproj -> D:\OneDrive\桌面\vs\leetcode\3144.分割字符频率相等的最少子字符串\x64\Debug\3144.分割字符频率相等的最少子字符串.exe
