@@ -1,0 +1,3 @@
+﻿  mian.cpp
+D:\OneDrive\桌面\vs\leetcode\3153.所有数对中数位不同之和\mian.cpp(10,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  3153.所有数对中数位不同之和.vcxproj -> D:\OneDrive\桌面\vs\leetcode\3153.所有数对中数位不同之和\x64\Debug\3153.所有数对中数位不同之和.exe
