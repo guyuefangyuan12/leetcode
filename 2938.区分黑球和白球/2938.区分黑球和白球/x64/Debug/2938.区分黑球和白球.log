@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\2938.区分黑球和白球\main.cpp(13,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\2938.区分黑球和白球\main.cpp(25,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\2938.区分黑球和白球\main.cpp(26,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2938.区分黑球和白球.vcxproj -> D:\OneDrive\桌面\vs\leetcode\2938.区分黑球和白球\x64\Debug\2938.区分黑球和白球.exe
