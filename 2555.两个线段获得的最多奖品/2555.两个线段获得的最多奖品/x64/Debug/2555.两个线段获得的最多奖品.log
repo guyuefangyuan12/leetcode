@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\2555.两个线段获得的最多奖品\main.cpp(10,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\2555.两个线段获得的最多奖品\main.cpp(29,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2555.两个线段获得的最多奖品.vcxproj -> D:\OneDrive\桌面\vs\leetcode\2555.两个线段获得的最多奖品\x64\Debug\2555.两个线段获得的最多奖品.exe
