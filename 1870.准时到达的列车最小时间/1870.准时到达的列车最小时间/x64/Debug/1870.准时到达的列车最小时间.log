@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\1870.准时到达的列车最小时间\main.cpp(10,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1870.准时到达的列车最小时间.vcxproj -> D:\OneDrive\桌面\vs\leetcode\1870.准时到达的列车最小时间\x64\Debug\1870.准时到达的列车最小时间.exe
