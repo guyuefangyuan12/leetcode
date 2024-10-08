@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431FEA51-3CA4-4739-9AA0-56DE808FDFE8}|1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{431FEA51-3CA4-4739-9AA0-56DE808FDFE8}|1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431FEA51-3CA4-4739-9AA0-56DE808FDFE8}|1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39.vcxproj|D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{431FEA51-3CA4-4739-9AA0-56DE808FDFE8}|1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39.vcxproj|solutionrelative:test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39\\test.cpp",
+              "RelativeDocumentMoniker": "test.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39\\test.cpp",
+              "RelativeToolTip": "test.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T07:22:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\OneDrive\\\u684C\u9762\\vs\\leetcode\\1928.\u89C4\u5B9A\u65F6\u95F4\u5185\u5230\u8FBE\u7EC8\u70B9\u7684\u6700\u5C0F\u82B1\u8D39\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T06:24:41.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

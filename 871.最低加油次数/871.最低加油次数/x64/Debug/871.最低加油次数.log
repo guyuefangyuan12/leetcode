@@ -1,0 +1,3 @@
+﻿  贪心.cpp
+D:\OneDrive\桌面\vs\leetcode\871.最低加油次数\贪心.cpp(11,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  871.最低加油次数.vcxproj -> D:\OneDrive\桌面\vs\leetcode\871.最低加油次数\x64\Debug\871.最低加油次数.exe
