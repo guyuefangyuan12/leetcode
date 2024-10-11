@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OneDrive\桌面\vs\leetcode\3162.优质数对的总数I\main.cpp(62,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\OneDrive\桌面\vs\leetcode\3162.优质数对的总数I\main.cpp(63,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  3162.优质数对的总数I.vcxproj -> D:\OneDrive\桌面\vs\leetcode\3162.优质数对的总数I\x64\Debug\3162.优质数对的总数I.exe

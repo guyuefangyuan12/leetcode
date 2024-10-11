@@ -1,0 +1,6 @@
+﻿  logTrick.cpp
+D:\OneDrive\桌面\vs\leetcode\3171.找到按位或最接近K的子数组\logTrick.cpp(10,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ST.cpp
+D:\OneDrive\桌面\vs\leetcode\3171.找到按位或最接近K的子数组\ST.cpp(73,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  3171.找到按位或最接近K的子数组.vcxproj -> D:\OneDrive\桌面\vs\leetcode\3171.找到按位或最接近K的子数组\x64\Debug\3171.找到按位或最接近K的子数组.exe
